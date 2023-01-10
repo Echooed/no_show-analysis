@@ -1,0 +1,12 @@
+## importing libraries
+%matplotlib inline
+%config inlineBackend.figure_format = 'retina'  ## to render higher image resolution
+
+import matplotlib.pyplot as plt
+import matplotlib as mpl
+import numpy as np
+import pandas as pd
+import seaborn as sns
+
+%matplotlib inline
+%config inlineBackend.figure_format = 'retina'  ## to render higher image resolution
